@@ -1,7 +1,6 @@
 {
   "name": "app_demo",
   "version": "1.0.0",
-  "description": "",
   "main": ".vite/build/main.js",
   "description": "Une application de démonstration avec ElectronJS",
   "scripts": {
