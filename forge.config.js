@@ -68,8 +68,8 @@ module.exports = {
       name: "@electron-forge/publisher-github",
       config: {
         repository: {
-          owner: "mon-compte",
-          name: "mon-repo",
+          owner: "roulios44",
+          name: "ElectronJSDemo",
         },
         prerelease: false,
         draft: true,
